@@ -143,6 +143,12 @@ The following is the complete list of benchmarks, separated into groups.
   \
   Default repetitions: 50; GPL2 license, GPL3 distribution; Supported JVM: 1.8 and later
 
+#### opennlp
+
+- `named-entity-recognition` - A benchmark that tokenizes an input text and performs named entity recognition using maximum-entropy-based models.
+  \
+  Default repetitions: 10; APACHE2 license, MIT distribution; Supported JVM: 1.8 and later
+
 #### scala
 
 - `dotty` - Runs the Dotty compiler on a set of source code files.
